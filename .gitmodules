@@ -1,0 +1,3 @@
+[submodule "decrypt/sqlcipher"]
+	path = decrypt/sqlcipher
+	url = https://github.com/Tencent/sqlcipher/
